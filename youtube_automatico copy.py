@@ -12,8 +12,8 @@ time.sleep(5)
 browser = Chrome()
 wait = WebDriverWait(browser, 15)
 
-link = "https://www.youtube.com/"
-browser.get(link)
+linkk = "https://www.youtube.com/"
+browser.get(linkk)
 
 time.sleep(3)
 
